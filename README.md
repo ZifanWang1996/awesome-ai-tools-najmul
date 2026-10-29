@@ -116,6 +116,7 @@
 | Remove.bg | https://remove.bg | AI-powered instant background remover for images. |
 | Krea AI | https://krea.ai | Real-time AI image and video generation and enhancement tool. |
 | Magnific AI | https://magnific.ai | AI image upscaler and enhancer for ultra-realistic detail. |
+| RSP Editor AI | https://rspeditor.app | AI photo styling from uploaded images; one trial image on signup, with paid options. |
 
 ## 4. AI Video Generation & Editing
 
